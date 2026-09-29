@@ -1,17 +1,4 @@
-"""
-Simple To-Do List Program
---------------------------
-Features:
-  1. Add a task
-  2. Remove (subtract) a task
-  3. Mark a task as completed
-  4. Show all tasks
-  5. Show only completed tasks
-  6. Show only pending tasks
-  0. Exit
-"""
-
-tasks = []  # each task is a dict: {"name": str, "done": bool}
+tasks = [] 
 
 
 def addtask():
