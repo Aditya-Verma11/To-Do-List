@@ -16,18 +16,10 @@ A simple to-do list that runs in the terminal. You can add tasks, mark them as d
 
 To check if Python is installed, run:
 
-```bash
-python --version
-```
+
 
 ## How to Run
 
-1. Download or clone this repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
-   ```
 
 2. Run the program:
 
@@ -104,10 +96,5 @@ Task "Buy groceries" marked as completed.
 - Allow editing an existing task
 - Build a simple graphical interface
 
-## Contributing
 
-Suggestions and improvements are welcome. Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is free to use and share. You can add a license of your choice, such as the [MIT License](https://choosealicense.com/licenses/mit/).
